@@ -73,10 +73,10 @@ git clone https://github.com/mariam12954/College-Final-Project.git
 
 👥 Team
 
-Mariam tarek 
-Shahd Mohamed 
-Sara Mohamed 
-Marina Shnoda 
+Mariam tarek ,
+Shahd Mohamed ,
+Sara Mohamed ,
+Marina Shnoda &
 Ziad Abdullah 
 
 
