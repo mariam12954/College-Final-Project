@@ -1,10 +1,10 @@
-🏨 Hotel Management System – Java OOP Final Project
+ Hotel Management System – Java OOP Final Project
 
-📌 Overview
+ Overview
 
 This is a Hotel Management System developed as a final project for our college course in Object-Oriented Programming using Java. The system includes GUI-based interaction for both employees and managers, allowing users to book rooms, choose extra services, view data, and manage hotel operations efficiently.
 
-👨‍💻 Project Features
+ Project Features
 
 Add and manage employees
 
@@ -21,7 +21,7 @@ GUI design with image backgrounds and modern transparent styling
 Data validation and user feedback via dialogs
 
 
-🧩 Technologies Used
+ Technologies Used
 
 Java (JDK 21)
 
@@ -32,7 +32,7 @@ Java Swing (GUI Design)
 IntelliJ IDEA
 
 
-🎯 My Contribution
+ My Contribution
 
 I collaborated with 4 colleagues on this project.
 My main role was designing and implementing the Graphical User Interface (GUI):
@@ -51,7 +51,7 @@ GUI consistency across all project screens (employee & manager panels)
 
 ---
 
-🚀 How to Run the Project
+ How to Run the Project
 
 1. Clone the repository:
 
@@ -71,13 +71,6 @@ git clone https://github.com/mariam12954/College-Final-Project.git
 
 ---
 
-👥 Team
-
-Mariam tarek ,
-Shahd Mohamed ,
-Sara Mohamed ,
-Marina Shnoda &
-Ziad Abdullah 
 
 
 
